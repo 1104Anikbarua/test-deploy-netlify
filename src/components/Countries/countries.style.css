@@ -7,11 +7,11 @@
     /* z-index: -1; */
 }
 
-.input-text input {
+/* .input-text input {
     width: 300px;
     height: 30px;
     border-radius: 5px;
-}
+} */
 
 .input-text button {
     position: absolute;

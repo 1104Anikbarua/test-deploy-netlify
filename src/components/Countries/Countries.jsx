@@ -22,7 +22,7 @@ const Countries = () => {
     return (
         <>
             <form onSubmit={handleSearch} className='input-text'>
-                <input type="text" name="search" id="" />
+                <input className='w-80 h-10 bg-gray-200 outline-none rounded-md' type="text" name="search" id="" />
                 <button>Search</button>
             </form>
             <p className='text-xl font-semibold text-blue-700 text-center mt-5'>Total Countries Found {countrys.length}</p>
