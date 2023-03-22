@@ -1,0 +1,22 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+
+.country-content {
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+
+.country-content-btn {
+    /* width: 100px; */
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 40px;
+}
